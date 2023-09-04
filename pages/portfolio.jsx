@@ -20,16 +20,24 @@ function Portfolio() {
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
-                <img src="/chitchat.png" className="portfolio-image" alt="" />
+                <img
+                  src=""
+                  className="portfolio-image"
+                  alt="no image available"
+                />
 
-                <h4 className="portfolio-name">Chat App Exploration</h4>
-                <div className="portfolio-category">Mobile Dev</div>
+                <h4 className="portfolio-name">GitHub</h4>
+                <div className="portfolio-category">Dev</div>
               </div>
               <div className="portfolio-item">
-                <img src="/kajian.jpg" className="portfolio-image" alt="" />
+                <img
+                  src=""
+                  className="portfolio-image"
+                  alt="no image available"
+                />
 
-                <h4 className="portfolio-name">kajian App</h4>
-                <div className="portfolio-category">Mobile Dev</div>
+                <h4 className="portfolio-name">LinkedIn</h4>
+                <div className="portfolio-category">Social</div>
               </div>
             </div>
           </div>
