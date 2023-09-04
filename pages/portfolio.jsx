@@ -16,9 +16,7 @@ function Portfolio() {
             <h1 data-test-id="pageTitle" className="title">
               Portfolio
             </h1>
-            <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
-            </p>
+            <p className="description">Still working on my first project.</p>
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
