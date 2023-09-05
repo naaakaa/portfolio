@@ -20,21 +20,13 @@ function Portfolio() {
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
-                <img
-                  src=""
-                  className="portfolio-image"
-                  alt="no image available"
-                />
+                <img src="" className="portfolio-image" alt="" />
 
                 <h4 className="portfolio-name">GitHub</h4>
                 <div className="portfolio-category">Dev</div>
               </div>
               <div className="portfolio-item">
-                <img
-                  src=""
-                  className="portfolio-image"
-                  alt="no image available"
-                />
+                <img src="" className="portfolio-image" alt="" />
 
                 <h4 className="portfolio-name">LinkedIn</h4>
                 <div className="portfolio-category">Social</div>
